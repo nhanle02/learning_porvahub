@@ -11,6 +11,18 @@ export default function Sidebar() {
             href: "/",
         },
         {
+            name: "Themes",
+            href: "/themes",
+        },
+        {
+            name: "Theme Generator",
+            href: "/theme-generator",
+        },
+        {
+            name: "Hooks Demo",
+            href: "/hooks-demo",
+        },
+        {
             name: "Scripts",
             href: "/scripts",
         },
@@ -21,14 +33,6 @@ export default function Sidebar() {
         {
             name: "Videos",
             href: "/videos",
-        },
-        {
-            name: "Themes",
-            href: "/themes",
-        },
-        {
-            name: "Theme Generator",
-            href: "/theme-generator",
         },
         {
             name: "History",
